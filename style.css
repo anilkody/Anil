@@ -73,10 +73,16 @@ hr {
 .profile {
   margin: 80px 10% 50px;
   line-height: 2;
+
 }
 
 .profile-photo {
   width: 20%;
+}
+
+.about-section {
+  padding-left: 10%;
+  padding-right:10%;
 }
 
 .skill-row1 {
@@ -110,10 +116,15 @@ hr {
 }
 
 .bottom-container {
-  background-color: #66bfbf;
+  background-color: #B6C9E3;
   margin-top: 50px;
   padding-bottom: 100px;
   padding-top: 100px;
+}
+
+.get-in-touch{
+  /* background-color: #B6C9E3; */
+  margin-top: 50px;
 }
 
 .btn {
